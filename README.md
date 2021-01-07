@@ -1,3 +1,3 @@
 # hello-world
 
-I'm learning about branches in github! I will use this ReadMe file to detail potential project ideas.
+Looking forward to populating my GitHub!
